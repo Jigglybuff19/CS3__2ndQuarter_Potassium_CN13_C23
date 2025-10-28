@@ -13,5 +13,8 @@ An initial wireframe or mock-up for all the proposed webpages, showing clearly t
 Navigation design should allow users to switch between pages with ease from any of the pages.
 
 Lastly, include a footer in your wireframe for copyright notices, source citations and Social Media Links using well known image sprites
-The project proposal containing above information should be saved as a readme.md inside a Github project repository maintained by members of the pair.  The project team name should be WDProjSectionLastNames.  
+
+The project proposal containing above information should be saved as a readme.md inside a Github project repository maintained by members of the pair.  
+
+The project team name should be WDProjSectionLastNames.  
 The Github project repository link should be submitted in KHub to give your teacher access to your files.
