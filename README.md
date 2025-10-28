@@ -1,6 +1,6 @@
 Title: Are You Worthy of Thors Hammer?
 Secondary: Games to prove your skills to the Gods. 
-Design: Thors hammer in the middle
+Logo: C:\Users\user\CS3__2ndQuarter_Potassium_CN13_C23\Projects\Images\pixil-frame-0.png
 
 Description: Our website is based on Thor, both his Marvel and Norse mythology iterations. Each webpage will be a different game with score goals in order to be deemed "worthy" of using Mjolnir, Thor's hammer. Our games will test the user's "worthiness" through reaction time, trivia, memorization, hand eye coordination, and maybe more. So test out your skills and see if you have what it truly takes to handle the power of a god!
 
